@@ -1,0 +1,16 @@
+.services {
+  text-align: left;
+}
+
+/* Map */
+
+.map {
+    height: 500px;
+    padding: 0;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}

@@ -6573,3 +6573,15 @@ CUSTOM
 .services {
   text-align: left;
 }
+
+/* Map */
+
+.map {
+    height: 500px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
