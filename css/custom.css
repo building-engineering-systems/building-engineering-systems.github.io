@@ -7,6 +7,11 @@
 .map {
     height: 500px;
     padding: 0;
+    width: 80%;
+    margin: auto auto 30px auto;
+    border: 1px solid gray;
+    padding: 2px;
+    box-sizing: border-box;
 }
 
 @media(max-width:768px) {
